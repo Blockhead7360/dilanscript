@@ -1,6 +1,6 @@
 # DilanScript 2
 
-Check out the [documentation](https://docs.blockhead7360.com/dilanscript).
+Check out the [documentation](http://docs.blockhead7360.com/dilanscript).
 
 Download the latest [release](https://github.com/Blockhead7360/dilanscript/releases).
 

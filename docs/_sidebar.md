@@ -9,3 +9,5 @@
   - [Java](API-Java.md "Java API- DilanScript 2 Docs")
 
 - [Examples](Examples.md "Examples - DilanScript 2 Docs")
+
+- [Download](https://github.com/Blockhead7360/dilanscript/releases)

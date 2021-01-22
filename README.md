@@ -1,3 +1,7 @@
 # DilanScript 2
 
-Download from the releases section on the right
+Check out the [documentation](https://docs.blockhead7360.com/dilanscript).
+
+Download the latest [release](https://github.com/Blockhead7360/dilanscript/releases).
+
+Go to [blockhead7360.com](https://blockhead7360.com).

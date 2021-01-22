@@ -15,7 +15,7 @@ TL;DR: It's an easy-to-use config file for your software :)
 The API can read both local files and files on a URL. Currently only runs in Java but more language support will be added soon (probably). Learn how to use the basic API with the [API Documentation](API.md).
 
 ## Download API
-Check out the releases for the latest version.
+Check out the [releases](https://github.com/Blockhead7360/dilanscript/releases) for the latest version.
 
 ## Credits
 Dilan (https://blockhead7360.com).

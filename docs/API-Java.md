@@ -92,4 +92,4 @@ This can be useful if you maybe need to loop through a list of a section's subse
 
 If your file doesn't exist or your URL doesn't work, you'll get the normal Java exceptions (IOException, MalformedURLException, etc).
 
-However, you may experience my own lovely `YoureALoserException`. It'll tell you why you got it when the error was thrown, but some examples include from never closing a [multiline](FileFormattingGuide.md#Multiline Blocks), having a value with no key, or having too many or too little closing section curly brackets.
+However, you may experience my own lovely `YoureALoserException`. It'll tell you why you got it when the error was thrown, but some examples include from never closing a [multiline](FileFormattingGuide.md#Multiline-blocks), having a value with no key, or having too many or too little closing section curly brackets.

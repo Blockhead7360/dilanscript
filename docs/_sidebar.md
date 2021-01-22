@@ -1,4 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [Guide](guide.md)
+- [Home](/)
+
+- [File Formatting Guide](FileFormattingGuide.md)
+
+- [API Documentation](API.md)

@@ -8,11 +8,11 @@ To have the DilanScript API read your file, create a new instance of the `DilanS
 
 With a file
     
-    DilanScript ds = new DilanScript(new File("urmom.ds");
+    DilanScript ds = new DilanScript(new File("urmom.ds"));
 
 or with a URL
     
-    DilanScript ds = new DilanScript(new URL("https://blockhead7360.com/urmom.ds");
+    DilanScript ds = new DilanScript(new URL("https://blockhead7360.com/urmom.ds"));
 
 Just by doing that, the entire DilanScript from that file will be loaded and ready for access. You will however need to catch various [exceptions](#Exceptions), which you can do like this:
 
